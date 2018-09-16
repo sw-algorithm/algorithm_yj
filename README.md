@@ -1,4 +1,5 @@
-# algorithm_yj
+# algorithm_study
+
 알고리즘 역량을 기르기 위한 모임
 
 - 주차별로 Projects -> plan 확인 
